@@ -1,38 +1,38 @@
-# Hi, I'm Sam! 👋  
+# 🚀 BOOM, Meet me, Sam
 
-I'm an undergraduate Computer Science student passionate about technology, gaming, and art. I love exploring new technologies, playing games, and expressing creativity through artistic endeavors.
+Hey there! 👋  
+Welcome to my personal repo where I showcase my **SQL, Data Analysis, Power BI, Python, Cybersecurity and What not** projects and practice exercises.  
 
----
-
-### 🛠️ Skills & Technologies
-- **Programming Languages:** Python, JavaScript, C++
-- **Tools & Frameworks:** React, Node.js, Git, Docker
-- **Interests:** Game Development, Artificial Intelligence, Artistic Projects
+I’m a **CSE student at IUBAT**, building a portfolio to grow as a **Data Analyst + AI + Cybersecurity enthusiast**.
 
 ---
 
-### 🚀 Current Projects
-- Building a personal portfolio website
-- Exploring game development with Unity
-- Learning advanced algorithms and data structures
+## 🧰 Skills & Tools
+
+### **SQL**
+### **Excel(tiny bit)**
+### **Power BI**
+### **Python**
+- 🐍 DataFrames, CSV handling  
+- 🔄 Simple data analysis workflows
+- 
+### **Cybersecurity (Beginner)**
+- 🛡️ Asset security & data protection   
+### **Doing some research work on all these*
+---
+
+
+## 🎯 My Goals
+- Build a ** portfolio** for **getting a job lol**  
+- Solve real-world problems 
+- Expand knowledge for research and projects  
+- Gain **practical experience** to complement analytics skills and break everything
+---
+
+## 📑 My socials
+- LinkedIn : https://www.linkedin.com/in/saymon-hasan-472a802b9/
+- Instagram : https://www.instagram.com/sam.statix/
 
 ---
 
-### 🏆 Achievements
-- Winner of XYZ Hackathon 2024
-- Certified in Data Science from ABC Institute
-- Published a game on the App Store/Google Play (or similar achievements)
-
----
-
-### 🎮 Hobbies & Interests
-- Gaming 🎮
-- Digital Art 🎨
-- Exploring new technologies and tools
-
----
-
-### 📫 Let's Connect
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/your-handle)
-- **Email:** your-email@example.com
+## ⚡ Stay tuned for more energetic experience
